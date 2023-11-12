@@ -179,7 +179,7 @@ loadingAnimation.style.display = "block";
 </style>
      <center>  <div class="blogListWrap">
 	 
-<h1 style="font-size:20px; font-weight:500; margin-bottom:30px;">Following blogs are being displayed. You can delete them <br>respectively by clicking on delete button.</h1>
+<h1 style="font-size:20px; font-weight:500;">Following blogs are being displayed. You can delete them respectively by clicking on delete button.</h1>
                         <div id="blogList"></div>
                         
                     </div>
